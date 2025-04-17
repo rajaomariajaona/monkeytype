@@ -678,5 +678,9 @@
       "code_odin",
       "code_fortran"
     ]
+  },
+  {
+    "name": "bible",
+    "languages": ["bible_nkjv"]
   }
 ]
